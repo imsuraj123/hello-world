@@ -31,7 +31,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Thankyou, Happy Dushera </h1>
+   <h1> Jai Shree ram, Happy Dushera </h1>
 
   
 </form>
